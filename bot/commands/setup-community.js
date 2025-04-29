@@ -1,0 +1,1 @@
+// setup-community.js placeholder
